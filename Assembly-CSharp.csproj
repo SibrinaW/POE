@@ -59,7 +59,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\Camera.cs" />
+    <Compile Include="Assets\Scripts\CameraScript.cs" />
     <Compile Include="Assets\Scripts\FactoryBuilding.cs" />
     <Compile Include="Assets\Scripts\GameEngine.cs" />
     <Compile Include="Assets\Scripts\Megabot.cs" />
@@ -68,8 +68,11 @@
     <Compile Include="Assets\Scripts\Nanobots.cs" />
     <Compile Include="Assets\Scripts\Ranged.cs" />
     <Compile Include="Assets\Scripts\ResourceBuilding.cs" />
+    <Compile Include="Assets\Scripts\SpawnUnits.cs" />
+    <Compile Include="Assets\Scripts\Timer.cs" />
     <Compile Include="Assets\Scripts\Titans.cs" />
     <Compile Include="Assets\Scripts\Unit.cs" />
+    <Compile Include="Assets\Scripts\Zoom.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>D:/University/Semester Two Modules 2018/GADE6112/Unity POE/RTS Game/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
